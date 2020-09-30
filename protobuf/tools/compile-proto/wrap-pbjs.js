@@ -1,7 +1,7 @@
-(window || global).awesome = (function($protobuf) {
+(window || global).test = (function($protobuf) {
     "use strict";
 
     $OUTPUT;
 
     return $root;
-})(protobuf).awesome;
+})(protobuf).test;
